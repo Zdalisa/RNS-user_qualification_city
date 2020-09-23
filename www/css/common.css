@@ -1,0 +1,34 @@
+.old_content {
+	margin:		0px;
+	padding:	0px;
+	font-size:	12px;
+	color:		#000;
+	background:	#F3E2A9;
+	position:	relative;
+	overflow-x:	auto;
+}
+.old_content .head {
+	text-align:		center;
+	height:		35px;
+}
+.old_content .phones {
+	padding: 20px 15px 20px 15px;
+}
+.old_content .table {
+	font-size: 14px;
+	border-style: solid;
+	border-width: 1px;
+}
+.old_content .table .h TD {
+	vertical-align:		middle;
+	text-align:		center;
+	padding-bottom:		6px;
+}
+.old_content .table TD {
+	border-style: solid;
+	border-width: 1px;
+}
+.old_content .table .content {
+	color: #000000;
+	background:	#fff;
+}
